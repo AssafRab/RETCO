@@ -6,13 +6,13 @@ import numpy as np
 import pandas as pd
 
 # Setting parameters
-version='CV' # alternatively, use CV iinstead of Cp
+version='Cp' # alternatively, use CV iinstead of Cp
 n=300
 Clusters_size=50
 cor=5
 sigsq=1
 c=0
-depth=3
+depth=4
 p=3
 
 # Sampling {X,Z,y} 
